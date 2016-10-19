@@ -10,11 +10,14 @@
 
 #collapsable-nav {
 	background-color: #6DDEB8;
-	width: 100%;
-	margin-right: 0;
 }
 
 #maincontent-sub {
 	background-color: #6A9AC4;
 	padding: 20px;
+}
+
+nav.navbar-default div.container section.navbar-header h1 {
+	float: left;
+	margin-top: 0;
 }
